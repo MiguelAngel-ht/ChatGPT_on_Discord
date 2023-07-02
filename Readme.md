@@ -14,6 +14,8 @@ This repository contains an implementation of a chat bot for Discord using ChatG
  - [API OpenAI](https://platform.openai.com/examples/default-qa)
 
 ## Authors 
-- [@Miguel Angel Hernándedz Tapia](https://www.github.com/octokatherine)
-- 
+- [@Miguel Angel Hernándedz Tapia](https://github.com/MiguelAngel-ht)
+- [@]()
+- [@]()
+- [@]()
 
