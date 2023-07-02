@@ -7,4 +7,13 @@
 This repository contains an implementation of a chat bot for Discord using ChatGPT. The bot is designed to provide conversational interactions with users in a Discord server. It incorporates the power of OpenAI's ChatGPT language model to generate human-like responses.
 
 
+## Acknowledgements
+
+ - [Python](https://www.python.org/)
+ - [Discord.py](https://discordpy.readthedocs.io/en/stable/)
+ - [API OpenAI](https://platform.openai.com/examples/default-qa)
+
+## Authors 
+- [@Miguel Angel Hernándedz Tapia](https://www.github.com/octokatherine)
+- 
 
