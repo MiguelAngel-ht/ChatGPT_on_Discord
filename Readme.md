@@ -1,5 +1,5 @@
 <div style="display: flex; align-items: center;">
-  <img src="Project/fotos/bot.png" width="100" height="100" alt="Logo" style="margin-right: 10px;">
+  <img src="Project/fotos/bot.png" width="50" height="50" alt="Logo" style="margin-right: 10px;">
   <h1> ChatGPT Discord Bot </h1>
 </div>
 
