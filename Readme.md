@@ -15,7 +15,7 @@ This repository contains an implementation of a chat bot for Discord using ChatG
 
 ## Authors 
 - [@Miguel Angel Hernándedz Tapia](https://github.com/MiguelAngel-ht)
-- [@]()
+- [@David Angel Alba Bonilla](https://github.com/DavidAlba2627)
 - [@]()
 - [@]()
 
